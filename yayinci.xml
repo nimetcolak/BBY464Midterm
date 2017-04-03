@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yayincilar>
+    <yayinci id="1">
+        <yayinci_adi>Doğan Kitap</yayinci_adi>
+        <iletisim>
+            <telefon>2123737700</telefon>
+            <mail>satis@dogankitap.com.tr</mail>
+        </iletisim>
+        <sehir>İstanbul</sehir>
+    </yayinci>
+    <yayinci id="2">
+        <yayinci_adi>İş Bankası Kültür Yayınları</yayinci_adi>
+        <iletisim>
+            <telefon>2122523991</telefon>
+            <mail>bilgi@iskultur.com.tr</mail>
+        </iletisim>
+        <sehir>İstanbul</sehir>
+    </yayinci>
+    <yayinci id="3">
+        <yayinci_adi>Yapı Kredi Kültür Sanat Yayıncılık</yayinci_adi>
+        <iletisim>
+            <telefon>2122524700</telefon>
+            <mail>ykkultur@ykykultur.com.tr</mail>
+        </iletisim>
+        <sehir>İstanbul</sehir>
+    </yayinci>
+    <yayinci id="4">
+        <yayinci_adi>İletişim Yayınları</yayinci_adi>
+        <iletisim>
+            <telefon>2125162260</telefon>
+            <mail>iletisim@iletisim.com.tr</mail>
+        </iletisim>
+        <sehir>Ankara</sehir>
+    </yayinci>
+    <yayinci id="5">
+        <yayinci_adi>Pena Yayınları</yayinci_adi>
+        <iletisim>
+            <telefon>2123688300</telefon>
+            <mail>info@penayayinlari.com</mail>
+        </iletisim>
+        <sehir>İstanbul</sehir>
+    </yayinci>
+    <yayinci id="6">
+        <yayinci_adi>Altın Yayınları</yayinci_adi>
+        <iletisim>
+            <telefon>2124463888</telefon>
+            <mail>iletisim@altinkitaplar.com.tr</mail>
+        </iletisim>
+        <sehir>İstanbul</sehir>
+    </yayinci>
+</yayincilar>

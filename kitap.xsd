@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+         <xs:element name="kitaplar">
+               <xs:complexType>
+                     <xs:sequence>
+                           <xs:element name="kitap" maxOccurs="unbounded">
+                                 <xs:complexType>
+                                       <xs:sequence>
+                                             <xs:element name="isbn" type="xs:int"></xs:element>
+                                             <xs:element name="kitap_adi" type="xs:string"></xs:element>
+                                             <xs:element name="yazar_adi" type="xs:string"></xs:element>
+                                             <xs:element name="yayin_yili" type="xs:int"></xs:element>
+                                             <xs:element name="baski" type="xs:int"></xs:element>
+                                             <xs:element name="yayinci_adi" type="xs:string"></xs:element>
+                                       </xs:sequence>
+                                       <xs:attribute name="id" type="xs:int"></xs:attribute>
+                                 </xs:complexType>
+                           </xs:element>
+                     </xs:sequence>
+               </xs:complexType>
+         </xs:element>
+   </xs:schema>

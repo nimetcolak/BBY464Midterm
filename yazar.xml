@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yazarlar>
+    <yazar id="1">
+        <isim>Elif Şafak</isim>
+        <yasadigi_donem>
+            <dogum_yili>1971</dogum_yili>
+        </yasadigi_donem>
+        <cinsiyet>Kadın</cinsiyet>
+        <uyruk>Türk</uyruk>
+    </yazar>
+        <yazar id="2">
+        <isim>Sarah Jio</isim>
+        <yasadigi_donem>
+            <dogum_yili>1978</dogum_yili>
+        </yasadigi_donem>
+        <cinsiyet>Kadın</cinsiyet>
+        <uyruk>Amerikan</uyruk>
+    </yazar>
+        <yazar id="3">
+        <isim>Victor Hugo</isim>
+        <yasadigi_donem>
+            <dogum_yili>1802</dogum_yili>
+            <olum_yili>1885</olum_yili>
+        </yasadigi_donem>
+        <cinsiyet>Erkek</cinsiyet>
+        <uyruk>Fransız</uyruk>
+    </yazar>
+        <yazar id="4">
+        <isim>Canan Tan</isim>
+        <yasadigi_donem>
+            <dogum_yili>1951</dogum_yili>
+        </yasadigi_donem>
+        <cinsiyet>Kadın</cinsiyet>
+        <uyruk>Türk</uyruk>
+    </yazar>
+    <yazar id="5">
+        <isim>Sabahattin Ali</isim>
+        <yasadigi_donem>
+            <dogum_yili>1907</dogum_yili>
+            <olum_yili>1948</olum_yili>
+        </yasadigi_donem>
+        <cinsiyet>Erkek</cinsiyet>
+        <uyruk>Türk</uyruk>
+    </yazar>
+</yazarlar>

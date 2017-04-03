@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kitaplar>
+    <kitap id="1">
+        <isbn>9786051111070</isbn>
+        <kitap_adi>Aşk</kitap_adi>
+        <yazar_adi>Elif Şafak</yazar_adi>
+        <yayin_yili>2012</yayin_yili>
+        <baski>370</baski>
+        <yayinci_adi>Doğan Kitap</yayinci_adi>
+    </kitap>
+    <kitap id="2">
+        <isbn>9786050922912</isbn>
+        <kitap_adi>Sakız Sardunya</kitap_adi>
+        <yazar_adi>Elif Şafak</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>45</baski>
+        <yayinci_adi>Doğan Kitap</yayinci_adi>
+    </kitap>
+    <kitap id="3">
+        <isbn>9786051114675</isbn>
+        <kitap_adi>Mahrem : Görmeye ve görülmeye dair bir roman</kitap_adi>
+        <yazar_adi>Elif Şafak</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>Doğan Kitap</yayinci_adi>
+    </kitap>
+    <kitap id="4">
+        <isbn>9786053320104</isbn>
+        <kitap_adi>Notre-Dame'ın kamburu</kitap_adi>
+        <yazar_adi>Victor Hugo</yazar_adi>
+        <yayin_yili>2014</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>İş Bankası Kültür Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="5">
+        <isbn>9789750511554</isbn>
+        <kitap_adi>Sefiller</kitap_adi>
+        <yazar_adi>Victor Hugo</yazar_adi>
+        <yayin_yili>2014</yayin_yili>
+        <baski>2</baski>
+        <yayinci_adi>İletişim Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="6">
+        <isbn>9786053609902</isbn>
+        <kitap_adi>Bir idam mahkumunun son günü</kitap_adi>
+        <yazar_adi>Victor Hugo</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>İş Bankası Kültür Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="7">
+        <isbn>9789753638027</isbn>
+        <kitap_adi>Kürk mantolu madonna</kitap_adi>
+        <yazar_adi>Sabahattin Ali</yazar_adi>
+        <yayin_yili>2016</yayin_yili>
+        <baski>81</baski>
+        <yayinci_adi>Yapı Kredi Kültür Sanat Yayıncılık</yayinci_adi>
+    </kitap>
+    <kitap id="8">
+        <isbn>9789750826672</isbn>
+        <kitap_adi>Canım Aliye, ruhum Filiz</kitap_adi>
+        <yazar_adi>Sabahattin Ali</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>Yapı Kredi Kültür Sanat Yayıncılık</yayinci_adi>
+    </kitap>
+    <kitap id="9">
+        <isbn>978975080001</isbn>
+        <kitap_adi>Kuyucaklı Yusuf</kitap_adi>
+        <yazar_adi>Sabahattin Ali</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>65</baski>
+        <yayinci_adi>Yapı Kredi Kültür Sanat Yayıncılık</yayinci_adi>
+    </kitap>
+    <kitap id="10">
+        <isbn>9786059126397</isbn>
+        <kitap_adi>Yeşil deniz kabuğu</kitap_adi>
+        <yazar_adi>Sarah Jio</yazar_adi>
+        <yayin_yili>2016</yayin_yili>
+        <baski>5</baski>
+        <yayinci_adi>Pena Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="11">
+        <isbn>9786059126786</isbn>
+        <kitap_adi>Yitik kalpler istasyonu</kitap_adi>
+        <yazar_adi>Sarah Jio</yazar_adi>
+        <yayin_yili>2016</yayin_yili>
+        <baski>5</baski>
+        <yayinci_adi>Pena Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="12">
+        <isbn>9786055057909</isbn>
+        <kitap_adi>Agapi : Ölümsüz aşk</kitap_adi>
+        <yazar_adi>Sarah Jio</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>Pena Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="13">
+        <isbn>9786050933567</isbn>
+        <kitap_adi>Kelepçe</kitap_adi>
+        <yazar_adi>Canan Tan</yazar_adi>
+        <yayin_yili>2016</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>Altın Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="14">
+        <isbn>9789752108226</isbn>
+        <kitap_adi>Yüreğim seni çok sevdi</kitap_adi>
+        <yazar_adi>Canan Tan</yazar_adi>
+        <yayin_yili>2015</yayin_yili>
+        <baski>44</baski>
+        <yayinci_adi>Altın Yayınları</yayinci_adi>
+    </kitap>
+    <kitap id="15">
+        <isbn>9786050922639</isbn>
+        <kitap_adi>Pembe ve Yusuf</kitap_adi>
+        <yazar_adi>Canan Tan</yazar_adi>
+        <yayin_yili>2014</yayin_yili>
+        <baski>1</baski>
+        <yayinci_adi>Doğan Kitap</yayinci_adi>
+    </kitap>
+</kitaplar>
