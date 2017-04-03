@@ -26,7 +26,7 @@
     </kitap>
     <kitap id="4">
         <isbn>9786053320104</isbn>
-        <kitap_adi>Notre-Dame'ın kamburu</kitap_adi>
+        <kitap_adi>Notre-Dame&apos;ın kamburu</kitap_adi>
         <yazar_adi>Victor Hugo</yazar_adi>
         <yayin_yili>2014</yayin_yili>
         <baski>1</baski>
